@@ -30,6 +30,10 @@ Sample Superstore Dataset
 - ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+## Key Takeaways
+- Sales performance varies significantly by region
+- Technology category contributes highest profit
+- Certain products consistently underperform
 
 ## Author
 Angelin
