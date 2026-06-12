@@ -17,8 +17,6 @@ This project analyzes Superstore sales data using Microsoft Excel to identify bu
 - Compared customer segments and their contribution to revenue.
 
 ## Dashboard Features
-- Total Sales KPI
-- Total Profit KPI
 - Region-wise Sales Analysis
 - Category-wise Performance
 - Interactive Filters using Slicers
@@ -29,6 +27,9 @@ Sample Superstore Dataset
 ## Files Included
 - Superstore_Sales_Analysis.xlsx
 - README.md
+- ## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## Author
 Angelin
